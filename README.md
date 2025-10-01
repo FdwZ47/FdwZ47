@@ -4,7 +4,7 @@ I was searching for paladins mods and somehow ended up here 💀. Programming is
 
 [UoN Cafe](https://uoncafe.org)
 
-![github stats](https://github-readme-streak-stats.herokuapp.com?user=FdwZ47&theme=nightowl&show_icons=true&hide_border=true)
+![github stats](https://github-readme-streak-stats.herokuapp.com?user=FdwZ47&theme=github_dark_dimmed&show_icons=true&hide_border=true)
 
 [![languages](https://skillicons.dev/icons?i=html,css,sass,ts,js,sqlite)](https://skillicons.dev)
 
