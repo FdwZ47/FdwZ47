@@ -1,4 +1,4 @@
-## Hey I'm Mahdi (aka FdwZ),
+## Hey, I'm Mahdi (aka FdwZ)
 
 I was searching for paladins mods and somehow ended up here 💀. Programming is just a hobby for me, not a career.
 
